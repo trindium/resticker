@@ -63,4 +63,4 @@ For more targets, see the Makefile.
 
 ## Credits
 
-[restic-backup-docker](https://github.com/Lobaro/restic-backup-docker) was used as a starting point. Thanks!
+[resticker](https://github.com/djmaze/resticker) was used as a starting point. Thanks!
