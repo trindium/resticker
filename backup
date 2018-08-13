@@ -13,7 +13,7 @@ done
 start=`date +%s`
 echo Starting Backup at $(date +"%Y-%m-%d %H:%M:%S")
 
-restic backup ${tag_options} ${RESTIC_BACKUP_SOURCES}
+restic backup ${tag_options} ${RESTIC_BACKUP_SOURCES} ${RESTIC_BACKUP_OPTIONS}
 
 echo Backup successful
 
